@@ -1,2 +1,2 @@
-# react-salad
+# React Salad
 UI components for React
